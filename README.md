@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34820410/README.md)
 # Cloud Security Learning Roadmap
 
 Public log of my path into **Cloud Security Engineering (Microsoft Azure)**. I update it every week with certifications, labs and projects, so anyone can see what I've actually built and where I'm headed.
